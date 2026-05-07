@@ -3,4 +3,4 @@ Passenger Counter is a web app that I have built as a practice of the basics of 
 
 I have also learned to deploying websites using netlify. Check this out by clicking the URL below.
 
-[Visit Website](brilliant-souffle-c70f3c.netlify.app)
+[Visit Website](https://brilliant-souffle-c70f3c.netlify.app/)
